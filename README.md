@@ -28,7 +28,8 @@ Experiments were conducted using six representative SCD baseline models:
 - SCanNet
 - ChangeMamba
 - FoBa-Mamba
-
+  
+## Code Availability
 ## First-stage Public Release
 
 This repository currently provides selected non-core utilities for semantic change detection research, including:
