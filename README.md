@@ -29,11 +29,15 @@ Experiments were conducted using six representative SCD baseline models:
 - ChangeMamba
 - FoBa-Mamba
 
-## Code Availability
+## First-stage Public Release
 
-This repository currently provides preliminary project resources and selected non-core components.
+This repository currently provides selected non-core utilities for semantic change detection research, including:
 
-The complete DPRM implementation, backbone integration code, and relevant experimental configurations are planned for release following acceptance of the manuscript.
+- SCD evaluation metrics (OA, Fscd, mIoU, and SeK).
+- Dataset directory validation tools.
+- Documentation and unit tests.
+
+The complete DPRM implementation and integration code will be released following manuscript acceptance.
 
 ## Citation
 
