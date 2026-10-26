@@ -32,14 +32,19 @@ Experiments were conducted using six representative SCD baseline models:
 ## Code Availability
 ## First-stage Public Release
 
-This repository currently provides selected non-core utilities for semantic change detection research, including:
+This repository currently provides selected non-core utilities
+for semantic change detection research.
+
+The available resources include:
 
 - SCD evaluation metrics (OA, Fscd, mIoU, and SeK).
 - Dataset directory validation tools.
 - Documentation and unit tests.
 
-The complete DPRM implementation and integration code will be released following manuscript acceptance.
+These utilities are located in the `DPRM/` directory.
 
-## Citation
+## Code Release Plan
 
-Citation information will be updated upon publication.
+The complete DPRM implementation, backbone integration code,
+and experimental configurations are planned for public release
+following manuscript acceptance.
